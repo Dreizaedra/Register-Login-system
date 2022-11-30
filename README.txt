@@ -1,7 +1,7 @@
 A system I developped to work on my PHP skills and muscle memory,
 I know for a fact WordPress can do better in 30min flat,
 Being efficient with my time wasn't the goal here
-Also my first real attempt at working with back-end and
+Also one of my first real attempt at working with back-end and
     trying to have front & back communicate (ajax in this case)
     
     
