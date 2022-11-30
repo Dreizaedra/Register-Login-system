@@ -1,0 +1,49 @@
+button, 
+.link {
+    cursor: pointer;
+}
+
+.link:active,
+.link {
+    background: none!important;
+    border: none;
+    padding: 0!important;
+    color: #069;
+    text-decoration: underline;
+}
+
+.nav-link {
+    margin-right: 10px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.error-msg {
+    color: red;
+    text-decoration: underline;
+}
+
+.inline {
+    display: inline;
+}
+
+/* #main, #header {
+    width: 50%;
+    margin: auto;
+}
+#main {
+    text-align: center;
+} */
+
+/* .nav-bar {
+    position: relative;
+    left: 41%;
+    text-align: justify;
+    list-style-position: inside;
+} */
